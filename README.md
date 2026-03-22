@@ -1,1 +1,1 @@
-# spec-kit-generate-readme
+# spec-kit-checkpoint
